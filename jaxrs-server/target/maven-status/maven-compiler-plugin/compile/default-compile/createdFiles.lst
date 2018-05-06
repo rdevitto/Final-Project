@@ -1,0 +1,17 @@
+io\swagger\api\ApiOriginFilter.class
+io\swagger\api\UserApi.class
+io\swagger\api\Bootstrap.class
+io\swagger\api\JacksonJsonProvider.class
+io\swagger\api\UserApiService.class
+io\swagger\model\User.class
+io\swagger\api\ApiResponseMessage.class
+io\swagger\api\EventApi.class
+io\swagger\api\NotFoundException.class
+io\swagger\api\EventApiService.class
+io\swagger\api\RFC3339DateFormat.class
+io\swagger\api\factories\EventApiServiceFactory.class
+io\swagger\api\impl\EventApiServiceImpl.class
+io\swagger\api\impl\UserApiServiceImpl.class
+io\swagger\api\ApiException.class
+io\swagger\api\factories\UserApiServiceFactory.class
+io\swagger\api\StringUtil.class
